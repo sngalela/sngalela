@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thokozane Michael Mthombeni
 - 👀 I’m interested in computer systems engineering, frontend development, backend development, cloud computing, and cybersecurity.
-- 🌱 I’m currently learning advanced backend development with Django, cloud security practices, and improving my expertise in Microsoft Azure and Amazon Web Services.
+- 🌱 Currently advancing my expertise in Java (Spring Boot, Quarkus, JPA/Hibernate), with exposure to Django, Flask, Angular, plus Azure, AWS, and cloud security.
 - 💞️ I’m looking to collaborate on projects involving IoT, software development, embedded systems, or cloud-based applications.
 - 📫 How to reach me: Email me at toto.mthombeni@gmail.com or call +27 63 461 3246.
 - 😄 Pronouns: He/Him
